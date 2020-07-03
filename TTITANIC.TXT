@@ -1,0 +1,11 @@
+
+ Name: Titanic
+ Director: James Cameron
+ Writer: James Cameron
+ Stars: Leonardo DiCaprio, Kate Winslet, Billy Zane
+ Ratings: 7.8/10
+ Rotten Tomatoes: 89%
+ Review: Cameron was clearly inspired by the challenge of reproducing the event
+	 with a physical verisimilitude and impact inconceivable
+	 in the numerous previous film and TV versions of the event.
+ BY: Todd McCarthy 

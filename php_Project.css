@@ -1,0 +1,20 @@
+.navbar-brand{
+	font-family: 'Dancing Script', cursive;
+	font-size: 1.5rem;
+}
+
+.navbar-toggler{
+	border: 0px;
+}
+
+.jumbotron{
+	text-align: center;
+}
+.carousel-inner  
+{ 	width:100%; 
+	height:45rem; 
+}
+
+#jumbotron-movie{
+	margin: 160px;
+}

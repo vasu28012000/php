@@ -1,0 +1,10 @@
+
+ Name: Django Unchained
+ Director: Quentin Tarantino
+ Writer: Quentin Tarantino
+ Stars: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio
+ Ratings: 8.4/10
+ Rotten Tomatoes: 87%
+ Review: Oddly, the rather blank, stoic Django is the least interesting 
+	character in this violent, somewhat uneven film.
+ BY: Jeffrey M. Anderson(Common Sense Media)
